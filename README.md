@@ -101,6 +101,7 @@ TravelTide is a data analysis project focused on understanding user behavior, se
 
 ## Reports
 - **Visualizations:** Contains various plots and dashboards summarizing the analysis.
+ - **Presentation and Executive Summary** are in the `reports/docs` directory
 
 ## SQL
 - **`session_base.sql`:** SQL script for session data.
@@ -132,4 +133,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## License
 This project is licensed under the MIT License.
 
-zzz
