@@ -124,6 +124,7 @@ pip install -r requirements.txt
 
 4. **Reports:**
    - Access the reports and visualizations in the `reports/` directory.
+   - Presentation and Executive Summary are in the `reports/docs` directory
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
@@ -131,6 +132,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For questions or feedback, please contact [Guy Kaptue](mailto:guykaptue24@gmail.com).
 zzz
