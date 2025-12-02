@@ -2,8 +2,8 @@
 
 # TravelTide: Data Analysis and User Segmentation Project
 <div align="center">
-[![View Presentation](https://img.shields.io/badge/📊-View_Presentation-blue?style=for-the-badge)](reports/docs/Presentation.pdf)
-[![Read Full Report](https://img.shields.io/badge/📄-Read_Full_Report-green?style=for-the-badge)](reports/docs/Traveltide.pdf)
+[![View Presentation](https://img.shields.io/badge/📊-View_Presentation-blue?style=for-the-badge)](https://github.com/TagboClaudia/traveltide/raw/main/reports/docs/Presentation.pdf)
+[![Read Full Report](https://img.shields.io/badge/📄-Read_Full_Report-green?style=for-the-badge)](https://github.com/TagboClaudia/traveltide/raw/main/reports/docs/Traveltide.pdf)
 </div>
 
 ## Overview
