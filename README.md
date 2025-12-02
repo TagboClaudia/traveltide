@@ -1,5 +1,10 @@
 
+
 # TravelTide: Data Analysis and User Segmentation Project
+<div align="center">
+[![View Presentation](https://img.shields.io/badge/📊-View_Presentation-blue?style=for-the-badge)](reports/docs/Presentation - TravelTide Rewards.pdf)
+[![Read Full Report](https://img.shields.io/badge/📄-Read_Full_Report-green?style=for-the-badge)](reports/docs/Traveltide.pdf)
+</div>
 
 ## Overview
 TravelTide is a data analysis project focused on understanding user behavior, segmenting users, and assigning perks based on their interactions with travel services. This project includes data processing, exploratory data analysis (EDA), clustering, and visualization to derive actionable insights.
@@ -132,3 +137,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions or feedback, please contact [Guy Kaptue](mailto:guykaptue24@gmail.com).
+zzz
